@@ -7,7 +7,7 @@ data:
     <title>Time to celebrate!</title>
     <style>
     html { color-scheme:light dark; }
-    body { width: 35em; margin: 0 auto; font-family: Tahoma, Verdana, Arial, sans-serif; background-color: cyan; }
+    body { width: 35em; margin: 0 auto; font-family: Tahoma, Verdana, Arial, sans-serif; background-color: yellow; }
     </style>
     </head>
     <body>
